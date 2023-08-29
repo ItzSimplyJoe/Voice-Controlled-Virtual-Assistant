@@ -1,0 +1,11 @@
+{
+    "Hello": ["Hello", "Hi", "Good Day", "Bonjour", "Hey", "Howdy", "Greetings"],
+    "Hi": ["Hello", "Hi", "Good Day", "Bonjour", "Hey", "Howdy", "Greetings"],
+    "Good Day": ["Hello", "Hi", "Good Day", "Bonjour", "Hey", "Howdy", "Greetings"],
+    "Bonjour": ["Hello", "Hi", "Good Day", "Bonjour", "Hey", "Howdy", "Greetings"],
+    "Hey": ["Hello", "Hi", "Good Day", "Bonjour", "Hey", "Howdy", "Greetings"],
+    "Howdy": ["Hello", "Hi", "Good Day", "Bonjour", "Hey", "Howdy", "Greetings"],
+    "Greetings": ["Hello", "Hi", "Good Day", "Bonjour", "Hey", "Howdy", "Greetings"],
+    "How are you": ["I am fine", "I am good", "I am doing well", "I am doing good", "I am doing fine", "I am doing great", "I am great", "I am okay", "I am ok", "I am alright", "I am all right", "I am doing alright", "I am doing all right", "I am doing okay", "I am doing ok", "I am doing great"],
+    "I am fine": ["Thats good to hear", "Thats good", "Thats great", "Thats great to hear", "Thats great to know", "Thats good to know", "Thats good to hear", "Thats great to hear", "Thats great to know", "Thats good to know"]
+}

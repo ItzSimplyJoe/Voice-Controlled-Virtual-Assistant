@@ -1,0 +1,92 @@
+Text,Intent
+15 minute timer,timer
+30 hour timer,timer
+capital france,webanswer
+capital italy,webanswer
+where china,webanswer
+president usa,webanswer
+How old King,webanswer
+who incharge china,webanswer
+who Josh Netherton,webanswer
+what google,webanswer
+10 minute timer,timer
+10 minute timer,timer
+10 second timer,timer
+10 second timer,timer
+where china,webanswer
+how are you,webanswer
+10 second timer,timer
+show calendar,calendar
+show calendar,calendar
+10 second timer,timer
+10 second timer,timer
+show calendar,calendar
+10 second timer,timer
+where china,webanswer
+where china,webanswer
+where china,webanswer
+about Statue of Liberty,webanswer
+about Statue of Liberty,webanswer
+about Eiffel Tower,webanswer
+10 second timer,timer
+about Statue of Liberty,webanswer
+about Statue of Liberty,webanswer
+about Statue of Liberty,webanswer
+about Statue of Liberty,webanswer
+How old King,webanswer
+capital france,webanswer
+10 second timer,timer
+capital france,webanswer
+10 second timer,timer
+about Empire State Building,webanswer
+10 second timer,timer
+about Empire State Building,webanswer
+10 second timer,timer
+How old King,webanswer
+show calendar,calendar
+show calendar,calendar
+show calendar,calendar
+10 second timer,timer
+30 second timer,timer
+15 second timer,timer
+10 second timer,timer
+play despacito,music
+play uk top 40,music
+play central cee song,music
+10 second timer,timer
+where is china,webanswer
+hello,greeting
+good day,greeting
+hey,greeting
+hi,greeting
+thanks,greeting
+thank you,greeting
+you are awesome,greeting
+you suck,insults
+you are stupid,insults
+tell me a joke,jokes
+joke please,jokes
+goodbye,leavings
+bye,leavings
+see you later,leavings
+see you soon,leavings
+what is your name,personality
+how are you,greeting
+how old are you,personality
+whats your favourite colour,personality
+whats your favourite food,personality
+whats your favourite animal,personality
+whats your favourite song,personality
+whats your favourite movie,personality
+whats your favourite game,personality
+whats your favourite sport,personality
+whats the weather,weather
+where am i,location
+whats the humidity,weather
+whats the temperature,weather
+convert 10 pounds to kilograms,conversion
+convert 10 pounds to grams,conversion
+convert 10 pounds to ounces,conversion
+convert 10 pounds to stones,conversion
+convert 10 pounds to tons,conversion
+convert 10 kilograms to pounds,conversion
